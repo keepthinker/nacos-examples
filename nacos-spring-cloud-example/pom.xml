@@ -12,12 +12,11 @@
     <properties>
         <!--<spring-boot.version>2.2.8.RELEASE</spring-boot.version>
         <spring-cloud-dependencies.version>Finchley.RELEASE</spring-cloud-dependencies.version>-->
-        <spring-boot.version>2.4.2</spring-boot.version>
-        <spring-cloud-dependencies.version>2020.0.6</spring-cloud-dependencies.version>
-        <spring-cloud-starter-alibaba-nacos-config.version>2021.1</spring-cloud-starter-alibaba-nacos-config.version>
-        <spring-cloud-starter-alibaba-nacos-discovery.version>2021.1</spring-cloud-starter-alibaba-nacos-discovery.version>
-        <nacos-client.version>1.4.4</nacos-client.version>
-        <!--<nacos-client.version>1.4.1</nacos-client.version>-->
+        <spring-boot.version>2.6.3</spring-boot.version>
+        <spring-cloud-dependencies.version>2021.0.1</spring-cloud-dependencies.version>
+        <spring-cloud-starter-alibaba-nacos-config.version>2021.0.1.0</spring-cloud-starter-alibaba-nacos-config.version>
+        <spring-cloud-starter-alibaba-nacos-discovery.version>2021.0.1.0</spring-cloud-starter-alibaba-nacos-discovery.version>
+        <nacos-client.version>1.4.1</nacos-client.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
