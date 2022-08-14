@@ -14,6 +14,10 @@
         <spring-cloud-dependencies.version>2021.0.1</spring-cloud-dependencies.version>
         <spring-cloud-starter-alibaba-nacos-config.version>2021.0.1.0</spring-cloud-starter-alibaba-nacos-config.version>
         <spring-cloud-starter-alibaba-nacos-discovery.version>2021.0.1.0</spring-cloud-starter-alibaba-nacos-discovery.version>
+        <!--<spring-boot.version>2.3.12.RELEASE</spring-boot.version>
+        <spring-cloud-dependencies.version>Hoxton.SR12</spring-cloud-dependencies.version>
+        <spring-cloud-starter-alibaba-nacos-config.version>2.2.8.RELEASE</spring-cloud-starter-alibaba-nacos-config.version>
+        <spring-cloud-starter-alibaba-nacos-discovery.version>2.2.8.RELEASE</spring-cloud-starter-alibaba-nacos-discovery.version>-->
         <nacos-client.version>2.1.1</nacos-client.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
